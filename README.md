@@ -17,11 +17,13 @@
 - Filtrage des Véhicules : Les visiteurs peuvent filtrer la liste des véhicules d'occasion en fonction de critères tels que le prix, le kilométrage, ou l'année de mise en circulation.
 
 - Témoignages Clients : Nous recueillons et affichons les témoignages des clients sur notre site. Les avis sont modérés pour assurer la qualité du contenu.  
-### 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+### Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/c/SgTjvEZT/61-garage)
 
 
-![Logo]()
+<!-- ![Logo]() + github a rajouter-->
 
-( + maniere de faire du local a remettre )
+<!-- ( + maniere de faire du local a remettre ) -->
