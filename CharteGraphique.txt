@@ -11,4 +11,5 @@ font-family: 'Tilt Neon', sans-serif; P
 #4F5D75 payne�s gray
 #2D3142 gunmetal
 
-trello�: https://trello.com/c/SgTjvEZT/61-garage
+
+logo a mettre
